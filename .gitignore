@@ -34,6 +34,7 @@ wheels/
 pip-wheel-metadata/
 share/python-wheels/
 env/
+backup/
 .installed.cfg
 *.egg
 MANIFEST
